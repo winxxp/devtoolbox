@@ -28,3 +28,10 @@
 
 ### GEO
 * [tile38](https://github.com/tidwall/tile38) - Tile38 is a geospatial database, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
+* 
+
+### PDF
+* Reader
+  * 
+* Libs
+  * [one-file-pdf](https://github.com/balacode/one-file-pdf) - A minimalist Go PDF writer in <2K lines and 1 file
