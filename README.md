@@ -24,4 +24,7 @@
 
 ### SQL
 * SQlite
-  * [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio)
+  * [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
+
+### GEO
+* [tile38](https://github.com/tidwall/tile38) - Tile38 is a geospatial database, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
