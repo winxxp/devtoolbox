@@ -39,3 +39,7 @@
 ### Version Control
 * Server
   * [Gogs](https://gogs.io) - Gogs is a painless self-hosted Git service.
+  * 
+  
+### Serialization 
+* [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) - Benchmarks of Go serialization methods
