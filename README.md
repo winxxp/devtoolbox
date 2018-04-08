@@ -50,3 +50,5 @@
  * [readthedocs](https://github.com/rtfd/readthedocs.org) - The source code that powers readthedocs.org   
  * [hugo](https://gohugo.io/) - The world’s fastest framework for building websites
 
+### Database
+* [HeidiSQL](https://www.heidisql.com/)
