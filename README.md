@@ -59,5 +59,7 @@
 
 ### Kanban 
 * [kanboard](https://kanboard.org) - Kanboard is a free and open source Kanban project management software.
+* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. https://gitpitch.com
+
 
 
