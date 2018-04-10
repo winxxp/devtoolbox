@@ -56,7 +56,9 @@
    
 ### Code
  * [Gerrit](https://www.gerritcodereview.com/) - Gerrit provides web based code review and repository management for the Git version control system.
-
+ * [gogs](https://gogs.io/) - 一款极易搭建的自助 Git 服务。
+ * [gitea](https://gitea.io/zh-CN/) -Gitea 是一个自己托管的Git服务程序。他和GitHub, Bitbucket or Gitlab等比较类似。他是从 Gogs 发展而来，不过我们已经Fork并且命名为Gitea。对于我们Fork的原因可以看 这里。
+ 
 ### Kanban 
 * [kanboard](https://kanboard.org) - Kanboard is a free and open source Kanban project management software.
 * [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. https://gitpitch.com
