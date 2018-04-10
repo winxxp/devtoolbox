@@ -22,7 +22,6 @@
 * [Regex101](https://regex101.com/)
 * 
 
-
 ### GEO
 * [tile38](https://github.com/tidwall/tile38) - Tile38 is a geospatial database, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
 * 
@@ -53,3 +52,8 @@
   * [DBeaver](https://dbeaver.jkiss.org/) - Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.
 * SQlite
    * [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
+   *
+   
+### Code
+ * [Gerrit](https://www.gerritcodereview.com/) - Gerrit provides web based code review and repository management for the Git version control system.
+
