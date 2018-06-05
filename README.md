@@ -65,6 +65,12 @@
 ### Kanban 
 * [kanboard](https://kanboard.org) - Kanboard is a free and open source Kanban project management software.
 * [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. https://gitpitch.com
+* [trello](trello.com)
+* [Taiga](https://taiga.io/) - Taiga is a project management platform for agile developers & designers and project managers who want a beautiful tool that makes work truly enjoyable.
+* [wekan](https://wekan.github.io/) - Wekan is an open-source kanban board which allows a card-based task and to-do management, similar to tools like WorkFlowy or Trello.
+* [Restyaboard](http://restya.com/board) - Open Source Project Management Software for Tracking Projects
+* [TaskBoard](https://taskboard.matthewross.me/) - A simple, visual way to keep track of what needs to get done
+
 
 
 
